@@ -1,0 +1,81 @@
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\Ql_Khu_Vui_Choi.exe.config
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\Ql_Khu_Vui_Choi.exe
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\Ql_Khu_Vui_Choi.pdb
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Properties.Resources.resources
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.GenerateResource.cache
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.CoreCompileInputs.cache
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.exe
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.pdb
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Ve.resources
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.AssemblyReference.cache
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.DichVu.resources
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.TroChoi.resources
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Login.resources
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Menu.resources
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.NhanVien.resources
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Bán_Vé.resources
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Xuất_Báo_Cáo.resources
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.SuggestedBindingRedirects.cache
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.MenuNV.resources
+D:\học\C#\Code C#\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.KhuVuiChoi.resources
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\Ql_Khu_Vui_Choi.exe.config
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\Ql_Khu_Vui_Choi.exe
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\Ql_Khu_Vui_Choi.pdb
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.AssemblyReference.cache
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.SuggestedBindingRedirects.cache
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Bán_Vé.resources
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.DichVu.resources
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.KhuVuiChoi.resources
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Login.resources
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Menu.resources
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.MenuNV.resources
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.NhanVien.resources
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Properties.Resources.resources
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.TroChoi.resources
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Ve.resources
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Xuất_Báo_Cáo.resources
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.GenerateResource.cache
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.CoreCompileInputs.cache
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.exe
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.pdb
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.ResolveComReference.cache
+C:\Users\sn992\Downloads\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.HoaDon.resources
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\Ql_Khu_Vui_Choi.exe.config
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\Ql_Khu_Vui_Choi.exe
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\Ql_Khu_Vui_Choi.pdb
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Bán_Vé.resources
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.DichVu.resources
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.HoaDon.resources
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.KhuVuiChoi.resources
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Login.resources
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Menu.resources
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.MenuNV.resources
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.NhanVien.resources
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Properties.Resources.resources
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.TroChoi.resources
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Ve.resources
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.Xuất_Báo_Cáo.resources
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.csproj.CopyComplete
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.exe
+C:\Users\Admin\Desktop\Ql_Khu_Vui_Choi\Ql_Khu_Vui_Choi\obj\Debug\Ql_Khu_Vui_Choi.pdb
